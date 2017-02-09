@@ -29,6 +29,10 @@ var newSessionHandlers = {
         output = welcomeMessage;
         this.emit(':ask', output, welcomeRepromt);
     },
+    'getNextMeetupIntent': function () {
+        this.handler.state = states.SEARCHMODE;
+        this.emitWithState('getNextMeetupIntent');
+    },
     'AMAZON.StopIntent': function () {
         this.emit(':tell', goodbyeMessage);
     },
