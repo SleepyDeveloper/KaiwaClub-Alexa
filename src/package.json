@@ -1,0 +1,25 @@
+{
+  "name": "kaiwa-club",
+  "version": "0.0.1",
+  "description": "A simple skill to notify users when the next Kaiwa Club takes place.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "kaiwa",
+    "club",
+    "litte",
+    "tokyo"
+  ],
+  "author": "SleepyDeveloper",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "https": "^1.0.0",
+    "moment": "^2.17.1",
+    "moment-timezone": "^0.5.11"
+  }
+}

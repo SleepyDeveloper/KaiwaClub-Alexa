@@ -1,0 +1,12 @@
+getNextMeetupIntent next meetup
+getNextMeetupIntent next kaiwa club
+getNextMeetupIntent when is the next meetup
+getNextMeetupIntent when is the next kaiwa club
+getNextMeetupIntent tell me next
+getNextMeetupIntent the next meetup
+getNextMeetupIntent the next kaiwa club
+
+
+AMAZON.StopIntent stop
+AMAZON.StopIntent off
+AMAZON.StopIntent shut up
