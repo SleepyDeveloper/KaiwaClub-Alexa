@@ -11,7 +11,7 @@ var sig = 'b09941c406bbc4defb0a7b09a25216112a1392b6';
 
 var welcomeMessage = "Kaiwa Club. You can ask me for the next meetup or say help. What will it be?";
 
-var welcomeRepromt = "You can ask me for the next meetup or  say help. What will it be?";
+var welcomeRepromt = "You can ask me for the next meetup or say help. What will it be?";
 
 var HelpMessage = "Here are some things you can say: When is the next meetup? What would you like to do?";
 
