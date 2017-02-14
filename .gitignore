@@ -62,3 +62,6 @@ typings/
 
 # no need to check in zipped archives when manually uploading to lambda
 *.zip
+
+# visual studio code debugging config
+.vscode
